@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "asc_scolaire.pbl" "";
+@end;
+@begin Objects
+ "d_crit_listeditscols_asc.srd" "asc_scolaire.pbl";
+@end;
