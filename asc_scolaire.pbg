@@ -3,5 +3,6 @@ Save Format v3.0(19990112)
  "asc_scolaire.pbl" "";
 @end;
 @begin Objects
+ "d_edlisteditscols_asc.srd" "asc_scolaire.pbl";
  "d_crit_listeditscols_asc.srd" "asc_scolaire.pbl";
 @end;
